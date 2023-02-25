@@ -8,7 +8,6 @@ require (
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/valyala/fasttemplate v1.1.0
-	golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
-	golang.org/x/text v0.3.3 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 )
